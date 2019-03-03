@@ -1,0 +1,10 @@
+div {
+    width: 400px;
+    height: 200px;
+    border: 10px dashed red;
+    margin: 20px auto; /* Top and Bottom 20 px, and Left and Right will be same with the rest */
+}
+
+.seconddiv {
+    box-sizing: border-box;
+}
