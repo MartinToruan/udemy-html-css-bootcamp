@@ -1,0 +1,22 @@
+div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    display: inline-block;
+}
+
+img {
+    border: 10px groove orangered;
+}
+
+.firstdog {
+    border: 10px dotted orangered;
+}
+
+.seconddog {
+    border: 10px dashed orangered;
+}
+
+.thirddog {
+    border: 10px double orangered;
+}
