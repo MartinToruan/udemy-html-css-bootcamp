@@ -1,0 +1,13 @@
+/*
+Note:
+Selector by ID only can be applied to 1 element.
+So, If you have more than 1 element with the same id, the IDE will expect it as an error.
+*/
+
+[src] {
+    border: 10px dashed red;
+}
+
+[href] {
+    border: 10px dashed green;
+}
